@@ -21,6 +21,10 @@
         "app/search/page": {
           "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fteddy%2FDeveloper%2Fteddy-blog%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227fca76ca9669d49365da5c471ebd0f6a98b70f265e%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
           "async": false
+        },
+        "app/projects/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fteddy%2FDeveloper%2Fteddy-blog%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227fca76ca9669d49365da5c471ebd0f6a98b70f265e%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
         }
       },
       "layer": {
@@ -28,7 +32,8 @@
         "app/about/page": "action-browser",
         "app/sign-in/[[...sign-in]]/page": "action-browser",
         "app/sign-up/[[...sign-up]]/page": "action-browser",
-        "app/search/page": "action-browser"
+        "app/search/page": "action-browser",
+        "app/projects/page": "action-browser"
       }
     }
   },
