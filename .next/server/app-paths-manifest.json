@@ -1,9 +1,7 @@
 {
-  "/api/post/get/route": "app/api/post/get/route.js",
-  "/page": "app/page.js",
+  "/search/page": "app/search/page.js",
+  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
   "/about/page": "app/about/page.js",
   "/projects/page": "app/projects/page.js",
-  "/sign-up/[[...sign-up]]/page": "app/sign-up/[[...sign-up]]/page.js",
-  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
-  "/search/page": "app/search/page.js"
+  "/sign-up/[[...sign-up]]/page": "app/sign-up/[[...sign-up]]/page.js"
 }
